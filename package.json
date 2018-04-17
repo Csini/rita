@@ -1,0 +1,19 @@
+{
+  "name": "rita",
+  "version": "1.0.0",
+  "description": "RITA Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Damiankab/rita.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Damiankab/rita/issues"
+  },
+  "homepage": "https://github.com/Damiankab/rita#readme"
+}
